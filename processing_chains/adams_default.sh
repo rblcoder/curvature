@@ -1,4 +1,4 @@
-#!/bin/sh
+SHELL = /bin/bash
 
 # curvature.sh
 #
